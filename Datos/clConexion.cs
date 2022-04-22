@@ -13,6 +13,7 @@ namespace appRestaurante.Datos
         public clConexion()
         {
             conexion = new SqlConnection("Data Source=.;Initial Catalog=restaurante;Integrated Security=True");
+            conexion = new SqlConnection("Data Source=DESKTOP-CSMQEBG;Initial Catalog=restaurante;Integrated Security=True");
             conexion.Open();
         }
 
