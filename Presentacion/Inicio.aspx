@@ -50,8 +50,10 @@
                 <asp:Button CssClass="btn-success m-5" ID="btnSinAjax" runat="server" Text="SIN AJAX" OnClick="btnSinAjax_Click"/>
 
             </div>
+            <asp:Button ID="Button1" runat="server" Text="Button" />
+            </div>
 
-        </div>
+        
 
     </form>
 
