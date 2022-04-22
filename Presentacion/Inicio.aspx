@@ -44,7 +44,15 @@
                 <p>Especialidad en Comidas Rapidas </p>
             </div>
 
+            <div class="p-5 bg-primary text-white">
+                <h1>PEDIDOS RESTAURANTE HECHO POR JHAN</h1>
+                <p>Especialidad en Comidas Rapidas </p>
+            </div>
+
             <div class="form-group">
+
+                <br />
+                <br />
 
                 <asp:Button CssClass="btn-success m-5" ID="btnConAjax" runat="server" Text="CON AJAX " OnClick="btnConAjax_Click"/>
                 <asp:Button CssClass="btn-success m-5" ID="btnSinAjax" runat="server" Text="SIN AJAX" OnClick="btnSinAjax_Click"/>

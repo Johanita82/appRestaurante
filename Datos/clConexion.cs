@@ -12,7 +12,7 @@ namespace appRestaurante.Datos
         SqlConnection conexion;
         public clConexion()
         {
-            conexion = new SqlConnection("Data Source=DESKTOP-CSMQEBG;Initial Catalog=restaurante;Integrated Security=True");
+            conexion = new SqlConnection("Data Source=SOGAPRRBCFSD535\\SQLEXPRESS;Initial Catalog=restaurante;Integrated Security=True");
             conexion.Open();
         }
 

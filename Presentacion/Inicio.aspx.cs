@@ -12,13 +12,11 @@ namespace appRestaurante.Presentacion
         protected void Page_Load(object sender, EventArgs e)
         {
             
-
         }
 
         protected void btnConAjax_Click(object sender, EventArgs e)
         {
             Response.Redirect("Pedidos.aspx");
-
         }
 
         protected void btnSinAjax_Click(object sender, EventArgs e)
