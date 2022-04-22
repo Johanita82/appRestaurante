@@ -33,6 +33,9 @@
                     <h1>PEDIDOS RESTAURANTE</h1>
                     <p style="height: 27px; width: 867px;">Especialidad en Comidas Rapidas </p>
                 </div>
+                <div class="p-5 bg-primary text-white">
+                    <h1>¡Realiza tus pedidos!</h1>
+                    </div>
 
                 <div class="form-group mb-3">
                     <label for="txtNombres">Nombres:</label>
