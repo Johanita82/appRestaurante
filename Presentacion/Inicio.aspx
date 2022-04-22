@@ -51,8 +51,10 @@
 
             </div>
             <asp:Button ID="Button1" runat="server" Text="Button" />
+            <br />
+        
+            <asp:Button ID="BTNE" runat="server" Text="Button" />
             </div>
-
         
 
     </form>
