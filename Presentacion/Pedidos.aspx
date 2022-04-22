@@ -15,7 +15,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
     <title>PEDIDOS RESTAURANTE</title>
-
+    
+    <h1>Prueba</h1>
 </head>
 
 <body>
@@ -59,6 +60,7 @@
                     <br />
                     <asp:Label ID="lblmensaje" runat="server" Text=""></asp:Label>
                 </div>
+
 
             </ContentTemplate>
 
