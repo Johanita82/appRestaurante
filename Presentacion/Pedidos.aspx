@@ -30,7 +30,7 @@
             <ContentTemplate>
 
                 <div class="p-5 bg-primary text-white">
-                    <h1>PEDIDOS RESTAURANTE</h1>
+                    <h1>PEDIDOS SANTI</h1>
                     <p style="height: 27px; width: 867px;">Especialidad en Comidas Rapidas </p>
                 </div>
 
